@@ -1,0 +1,9 @@
+pybase64
+pandas
+pymysql
+pycryptodome
+SQLAlchemy
+numpy
+python-dotenv
+pymysql
+python-amazon-ad-api

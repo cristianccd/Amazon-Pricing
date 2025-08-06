@@ -1,0 +1,4 @@
+curl  \
+    -X POST \
+    --data "grant_type=authorization_code&code=ANxLczRQiXOjejiwshZT&redirect_uri=[YOUR URI]"" \
+    https://api.amazon.co.uk/auth/o2/token

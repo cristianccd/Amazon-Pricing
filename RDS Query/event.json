@@ -1,0 +1,16 @@
+{
+  "id":"49d116ec-5de0-4767-98ea-76e339cd32a52",
+  "detail-type":"EC2 Instance State-change Notification",
+  "source":"aws.ec2",
+  "account":"183528967168",
+  "time":"2015-11-11T21:29:54Z",
+  "region":"eu-north-1a",
+  "version":"0",
+  "resources":[
+    "arn:aws:lambda:eu-north-1:183528967168:function:amzapi"
+  ],
+  "detail":{
+    "instance-id":"i-0412aecffa92fb056",
+    "state":"pending"
+  }
+}
